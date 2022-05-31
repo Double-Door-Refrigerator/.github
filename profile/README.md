@@ -2,7 +2,7 @@
 The creators of moss.
 
 ### JOBS
-link soon
+https://forms.gle/nZZ5wSK6ETNiM67P6
 
 ### PROJECTS
 Moss -- https://github.com/Double-Door-Refrigerator/moss
