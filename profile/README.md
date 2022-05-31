@@ -7,7 +7,7 @@ link soon
 ### PROJECTS
 Moss -- https://github.com/Double-Door-Refrigerator/moss
 
-Lotus --
+Lotus -- https://github.com/Double-Door-Refrigerator/Lotus
 
 Project:➼ -- Soon
 
